@@ -133,7 +133,7 @@ body {
 }
 .coverWallpaper::before {
     content: "";
-    background-image: url('/assets/img/rain_forest_chiloe.jpg') ;
+    background-image: url('https://vinceto.github.io/AromosDeMocopulli/assets/img/rain_forest_chiloe.jpg') ;
     /* background-image: radial-gradient(rgba(0, 0, 0, 0.7), transparent), url('/assets/img/rain_forest_chiloe.jpg'); */
     background-size: cover;
     background-position: center;
@@ -162,38 +162,38 @@ body {
 
 
 .bgImage1 {
-    background-image: url('/assets/img/acuarelaChucao.png');
+    background-image: url('https://vinceto.github.io/AromosDeMocopulli/assets/img/acuarelaChucao.png');
     background-size:contain;
     background-position: right;
     background-repeat: no-repeat;
 }
 .bgImage2 {
-    background-image: url('/assets/img/ranaMoteada.png');
+    background-image: url('https://vinceto.github.io/AromosDeMocopulli/assets/img/ranaMoteada.png');
     background-size: cover;
     background-position: 0 -150px;
     background-repeat: no-repeat;
 }
 .bgImage3 {
-    background-image: url('/assets/img/redFoxJumping.png');
+    background-image: url('https://vinceto.github.io/AromosDeMocopulli/assets/img/redFoxJumping.png');
     background-size: cover;
     /* background-position: center; */
     background-position: 0 -230px;
     background-repeat: no-repeat;
 }
 .airport{
-    background-image: url('/assets/img/airport.png');
+    background-image: url('https://vinceto.github.io/AromosDeMocopulli/assets/img/airport.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .nature{
-    background-image: url('/assets/img/nature.png');
+    background-image: url('https://vinceto.github.io/AromosDeMocopulli/assets/img/nature.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .tourist{
-    background-image: url('/assets/img/turistico.png');
+    background-image: url('https://vinceto.github.io/AromosDeMocopulli/assets/img/turistico.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
